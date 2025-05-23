@@ -17,7 +17,6 @@ ChatWithPDF is a web application that enables users to upload PDF (and other tex
 
 ## Screenshot
 
-<!-- Replace the below with your own screenshots -->
 
 ![ChatWithPDF - Upload Screen](image.png)
 
